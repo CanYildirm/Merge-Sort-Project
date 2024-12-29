@@ -27,3 +27,4 @@ Sol taraftan sorgulama yapacağız ve küçükten büyüğe sıralama yapacağı
 Aşama 6:
 Sonuç: [8,11,12,16,21,22]
 
+Big-O gösterimi: O(n)
